@@ -80,8 +80,6 @@ Demonstrações e detalhes de arquitetura: disponíveis em entrevista ou call.
 - **Qualidade automatizada:** testes unitários, de integração e E2E (Playwright), CI/CD com GitHub Actions em tudo que entrego
 - **Infra como parte do produto:** Docker, ambientes de produção, monitoramento e otimização guiada por métricas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelSedor&show_icons=true&hide_rank=true&locale=pt-br&title_color=142A5C&icon_color=D4A418&text_color=1C2434&bg_color=FFFFFF&border_color=D4A418&custom_title=Atividade%20no%20GitHub)
-
 ## Certificações
 
 Hiring Coders #3 (Gama Academy e VTEX, 120h: JS, TS, React, GraphQL, Node.js, Next.js) · Docker (B7Web) · EF SET English 71/100 · Startup Weekend Guarapuava · Segurança da Informação e LGPD
